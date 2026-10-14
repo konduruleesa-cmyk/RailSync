@@ -1,0 +1,5 @@
+id,name,from,to,status,passengers,capacity
+RS101,Vande Bharat Express,Vijayawada,Hyderabad,ON TIME,420,600
+RS204,Coastal Link,Chennai,Vijayawada,DELAYED,310,500
+RS318,Deccan Passenger,Hyderabad,Guntur,ON TIME,185,350
+RS422,Night Express,Guntur,Bengaluru,MAINTENANCE,90,450
